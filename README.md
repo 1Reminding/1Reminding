@@ -40,6 +40,35 @@ Interest in **LLM-Agent**, **MAS** and **NLP**
 - **Dialect Translation**: Multimodal Translation & Digital Avatars
 - **Frontend Development**: UI/UX Design & JavaScript Frameworks
 
+#### :computer: Programming languages and tools :computer: : 
+<p>
+<code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+<br />
+<code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
+<code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
+<code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+<code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/broccolijs/broccolijs-ar21.svg"></code>
+</p>
+<div style="display: flex; justify-content: space-between;">
+    <!-- 第一个框 -->
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=1Reminding&show_icons=true&hide_border=true" />
+    <!-- 第二个框 -->
+    <img width="48%" style="font-size: 12px; line-height: 1.2; height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Reminding&hide_langs_below=1&layout=compact&hide_border=true" />
+</div>
+
 
 
 
