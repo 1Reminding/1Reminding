@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋 This is Cynthia Hua ！✨ 
 
 <!--
 **1Reminding/1Reminding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/1Reminding)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:w00wayKwong@gmail.com)
+[![Nankai University](https://img.shields.io/badge/Nankai%20Uni.%20Mail-7E0C6E?style=flat&logoColor=white)](mailto:xingqinghua@mail.nankai.edu.cn)
+ 
+Welcome to my Github page! 
+
+I am Xing qinghua, a student majoring in Internet of Things Engineering at the School of Computer Science,Nankai University
+
+Interest in **LLM-Agent**, **MAS** and **NLP** 
