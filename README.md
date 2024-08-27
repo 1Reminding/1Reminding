@@ -1,5 +1,6 @@
 ### Hi there 👋 This is Cynthia Hua ！✨ 
-
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+👋+I+am+Qinghua+Xing+@NKU!+Welcome+to+My+Profile!)](https://git.io/typing-svg)
 <!--
 **1Reminding/1Reminding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -62,6 +63,9 @@ Interest in **LLM-Agent**, **MAS** and **NLP**
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/broccolijs/broccolijs-ar21.svg"></code>
 </p>
+
+📈 GitHub Activity Graph:  
+
 <div style="display: flex; justify-content: space-between;">
     <!-- 第一个框 -->
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=1Reminding&show_icons=true&hide_border=true" />
@@ -69,7 +73,19 @@ Interest in **LLM-Agent**, **MAS** and **NLP**
     <img width="48%" style="font-size: 12px; line-height: 1.2; height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Reminding&hide_langs_below=1&layout=compact&hide_border=true" />
 </div>
 
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/1Reminding/count.svg">  
 
+Counting of visitors to this page in this section started from March 27, 2024
+<a href="https://info.flagcounter.com/7gPS"><img src="https://s11.flagcounter.com/map/7gPS/size_l/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+
+</p>
+
+---
+  *If you want to contribute to any of my repositories, feel free to submit PRs, issues or jsut email me.⭐* 
+---
+
+#### Thanks for visiting :heart:
 
 
 
