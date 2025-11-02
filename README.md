@@ -30,7 +30,7 @@ I am Xing qinghua, a student majoring in Internet of Things Engineering at the S
 - **Multimodal Fake News Detection**: Detecting high-risk content with a focus on text-image dual modality, and summarizing risk points. The image modality employs a heatmap attention mechanism to detect high-risk points, while the text modality uses sequential masking to observe changes in loss, identifying potential high-risk content. This system integrates a large model to enhance detection capabilities, leveraging the model for cross-modal information fusion and for assisting in identifying potential patterns and inconsistencies in fake news generation.
 - **Multimodal Dialect Translation Platform**: Translating dialects from low-resource corpora, incorporating tone extraction, and integrating digital avatars for more vivid and accurate interactions.
 - Frontend Design and Development: Engaged in designing and developing user interfaces with a focus on enhancing user experience. 
-- [My website](https://1Reminding.github.io) 🚀 *coming soon*
+- [My website](https://1Reminding.github.io) 🚀 
 
 #### ⚡ Things recent ones I'm interested in ⚡ : 
 - **LLM Impact Prediction**: Large Language Models in Citation Prediction
