@@ -1,103 +1,90 @@
-## Hi there 👋 This is Cynthia Hua ！✨ 
-<!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+👋+I+am+Qinghua+Xing+@NKU!+Welcome+to+My+Profile!)](https://git.io/typing-svg)
-<!--
-**1Reminding/1Reminding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hi, I'm Qinghua Xing (邢清画) 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/1Reminding)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:w00wayKwong@gmail.com)
-[![Nankai University](https://img.shields.io/badge/Nankai%20Uni.%20Mail-7E0C6E?style=flat&logoColor=white)](mailto:xingqinghua@mail.nankai.edu.cn)
-  
-I am Xing qinghua, a student majoring in Internet of Things Engineering at the School of Computer Science,Nankai University
+**Incoming M.S. student at USTC · B.S. from Nankai University**
 
-<!--Interest in **LLM-Agent**, **MAS** and **NLP** -->
+*LLMs · Agents · Multimodal Learning · Knowledge Editing · AI for Research*
 
-#### 🌱 Things I am currently working on 🌱 : 
-- **ScImpactPredict**: Predicting the impact of academic papers based on LLMs,Please refer to the [ScImpactPredict](https://github.com/1Reminding/ScImpactPredict) for more details.
-- **MediChain-LLM-Agent**: Developing a specialized agent in the medical domain using the Langchain framework, with a frontend built in JavaScript. This agent provides precise medication recommendations based on patient symptoms and a custom-built drug database, offering more accurate and coherent results compared to general-purpose LLMs. Please refer to the [MediChain-LLM-Advisor](https://github.com/1Reminding/MediChain-LLM-Advisor) for more details.
-- **Multimodal Fake News Detection**: Detecting high-risk content with a focus on text-image dual modality, and summarizing risk points. The image modality employs a heatmap attention mechanism to detect high-risk points, while the text modality uses sequential masking to observe changes in loss, identifying potential high-risk content. This system integrates a large model to enhance detection capabilities, leveraging the model for cross-modal information fusion and for assisting in identifying potential patterns and inconsistencies in fake news generation.
-- **Multimodal Dialect Translation Platform**: Translating dialects from low-resource corpora, incorporating tone extraction, and integrating digital avatars for more vivid and accurate interactions.
-- Frontend Design and Development: Engaged in designing and developing user interfaces with a focus on enhancing user experience. 
-- [My website](https://1Reminding.github.io) 🚀 
+[![Homepage](https://img.shields.io/badge/Homepage-1Reminding.github.io-4C8BF5?style=flat-square&logo=googlechrome&logoColor=white)](https://1reminding.github.io/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=RNXBLb0AAAAJ&hl=en)
+[![GitHub](https://img.shields.io/badge/GitHub-1Reminding-181717?style=flat-square&logo=github)](https://github.com/1Reminding)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:xingqinghua@mail.nankai.edu.cn)
 
-#### ⚡ Things recent ones I'm interested in ⚡ : 
-- **LLM Impact Prediction**: Large Language Models in Citation Prediction
-- **Medical AI Agents**: LangChain Framework & Drug Databases
-- **Multimodal Fake News Detection**: Heatmap Attention & Sequential Masking
-- **Dialect Translation**: Multimodal Translation & Digital Avatars
-- **Frontend Development**: UI/UX Design & JavaScript Frameworks
-
-#### :computer: Programming languages and tools :computer: : 
-<p>
-<code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
-<br />
-<code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
-<code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
-<code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-<code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/broccolijs/broccolijs-ar21.svg"></code>
-</p>
-
-📈 GitHub Activity Graph:  
-
-<div style="display: flex; justify-content: space-between;">
-    <!-- 第一个框 -->
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=1Reminding&show_icons=true&hide_border=true" />
-    <!-- 第二个框 -->
-    <img width="48%" style="font-size: 12px; line-height: 1.2; height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Reminding&hide_langs_below=1&layout=compact&hide_border=true" />
 </div>
 
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/1Reminding/count.svg">  
+## About me
 
-Counting of visitors to this page in this section started from March 27, 2024
-<a href="https://info.flagcounter.com/7gPS"><img src="https://s11.flagcounter.com/map/7gPS/size_l/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+I received my bachelor's degree from [Nankai University](https://en.nankai.edu.cn/) in June 2026 and will begin my M.S. in Computer Science and Artificial Intelligence at the [University of Science and Technology of China](https://en.ustc.edu.cn/) in September 2026, advised by [Prof. Zhiwei Xiong](https://scholar.google.com/citations?user=Snl0HPEAAAAJ&hl=en).
 
+My research centers on **AI for Research**, with particular interests in **large language models, agents, multimodal learning, and knowledge editing**. At Nankai's [Media Computing Lab](http://mc.nankai.edu.cn/), I worked with [Prof. Xiang Li](https://scholar.google.com/citations?hl=en&user=oamjJdYAAAAJ) on newborn-article impact and quality estimation. This work led to papers at **AAAI 2025** and **ICLR 2026**.
+
+## News
+
+- **2026.03** — Joined **Huawei 2012 Lab, Base Large Model Department** as a research intern, working on agents and large-model fine-tuning.
+- **2026.01** — **NAIPv2** was accepted to **ICLR 2026**. 🎉
+- **2025.09** — Admitted to the M.S. program at **USTC** through graduate recommendation.
+- **2024.12** — **NAIPv1** was accepted to **AAAI 2025**. 🎉
+
+## Publications
+
+### NAIPv2: Debiased Pairwise Learning for Efficient Paper Quality Estimation
+
+Penghai Zhao, Jinyu Tian, **Qinghua Xing**, Xin Zhang, Zheng Li, Jianjun Qian, Ming-Ming Cheng, Xiang Li<br>
+**ICLR 2026** · [Paper](https://arxiv.org/abs/2509.25179) · [Demo](https://huggingface.co/spaces/ssocean/Newborn_Article_Impact_Predict)
+
+### From Words to Worth: Newborn Article Impact Prediction with LLM
+
+Penghai Zhao, **Qinghua Xing**, Kairan Dou, Jinyu Tian, Ying Tai, Jian Yang, Ming-Ming Cheng, Xiang Li<br>
+**AAAI 2025** · [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32106) · [Code](https://github.com/ssocean/NAIP) · [Demo](https://huggingface.co/spaces/ssocean/Newborn_Article_Impact_Predict)
+
+## Experience
+
+- **Huawei 2012 Lab — Base Large Model Department**, Beijing<br>
+  *Research Intern, Mar. 2026 – Present*<br>
+  Working on agent-based systems and large-model fine-tuning.
+- **Media Computing Lab, Nankai University**, Tianjin<br>
+  *Research Intern*<br>
+  Research on LLM-based scientific impact prediction under the supervision of Prof. Xiang Li.
+
+## Selected projects
+
+- **[NAIP](https://github.com/ssocean/NAIP)** — LLM-based newborn-article impact prediction before citation signals accumulate.
+- **[MediChain LLM Agent](https://github.com/1Reminding/MediChain-LLM-Agent)** — A medical-domain agent prototype with a custom drug database and end-to-end application stack.
+- **Kaifeng Woodblock Print Generation Platform** — An AIGC platform for preserving and revitalizing Zhuxianzhen woodblock-print heritage.
+- More details are available on [my personal homepage](https://1reminding.github.io/).
+
+## Languages and tools
+
+<p>
+  <code><img width="100" height="45" alt="PyTorch" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
+  <code><img width="100" height="45" alt="Python" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="100" height="45" alt="TensorFlow" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+  <code><img width="100" height="45" alt="Java" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="100" height="45" alt="Vue.js" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
+  <code><img width="100" height="45" alt="MySQL" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <br />
+  <code><img width="100" height="45" alt="Ubuntu" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
+  <code><img width="100" height="45" alt="Linux" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+  <code><img width="100" height="45" alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="100" height="45" alt="Visual Studio Code" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+  <code><img width="100" height="45" alt="React" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 </p>
 
----
-  *If you want to contribute to any of my repositories, feel free to submit PRs, issues or jsut email me.⭐* 
----
+## GitHub activity
 
-#### Thanks for visiting :heart:
+<div align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com?user=1Reminding&theme=transparent&hide_border=true" alt="Qinghua Xing's GitHub streak" />
+  </a>
+</div>
 
+[![Qinghua Xing's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=1Reminding&theme=github-compact&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
+<div align="center">
 
+![Profile views](https://komarev.com/ghpvc/?username=1Reminding&style=flat-square&color=4C8BF5)
 
+Open to research collaboration — feel free to reach out!
 
-
-
-
-
-
-
-
-
-
-
-
-
+</div>
