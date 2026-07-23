@@ -80,9 +80,7 @@ Penghai Zhao, **Qinghua Xing**, Kairan Dou, Jinyu Tian, Ying Tai, Jian Yang, Min
 ## Visitors around the world
 
 <div align="center">
-  <img src="./assets/visitor-reach.svg" width="100%" alt="Illustrative historical world map of profile visitor regions" />
-  <br><br>
-  <img src="https://github-visitor-counter-tau.vercel.app/api?username=1Reminding&amp;displayMode=flagMap&amp;mapSize=large&amp;theme=github_dark&amp;label=GLOBAL%20VISITORS&amp;showcount=true" alt="World map of profile visitors by country" />
+  <img src="https://github-visitor-counter-tau.vercel.app/api?counterId=7gPS&amp;displayMode=flagMap&amp;mapSize=large&amp;theme=github_dark&amp;label=GLOBAL%20VISITORS&amp;showcount=true" alt="World map of profile visitors by country" />
 </div>
 
 <div align="center">
