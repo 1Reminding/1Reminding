@@ -71,19 +71,21 @@ Penghai Zhao, **Qinghua Xing**, Kairan Dou, Jinyu Tian, Ying Tai, Jian Yang, Min
   <code><img width="100" height="45" alt="React" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 </p>
 
-## GitHub activity
+## Open-source impact
+
+<picture>
+  <img src="./assets/open-source-dashboard.svg" width="100%" alt="Open-source impact dashboard showing stars, followers, repositories, forks, and top repositories" />
+</picture>
+
+## Visitors around the world
 
 <div align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=1Reminding&theme=transparent&hide_border=true" alt="Qinghua Xing's GitHub streak" />
-  </a>
+  <img src="https://github-visitor-counter-tau.vercel.app/api?username=1Reminding&amp;displayMode=flagMap&amp;mapSize=large&amp;theme=github_dark&amp;label=GLOBAL%20VISITORS&amp;showcount=true" alt="World map of profile visitors by country" />
 </div>
 
-[![Qinghua Xing's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=1Reminding&theme=github-compact&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=1Reminding&style=flat-square&color=4C8BF5)
+![Profile views](https://komarev.com/ghpvc/?username=1Reminding&base=1200&style=for-the-badge&color=4C8BF5&label=PROFILE+VIEWS)
 
 Open to research collaboration — feel free to reach out!
 
