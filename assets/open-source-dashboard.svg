@@ -39,7 +39,7 @@
     <g transform="translate(34 92)">
       <rect width="198" height="92" rx="14" fill="url(#card)" stroke="#30363d"/>
       <text x="18" y="31" fill="#8b949e" font-size="11" font-weight="700" letter-spacing="1.2">STARS EARNED</text>
-      <text x="18" y="70" fill="#f0f6fc" font-size="31" font-weight="750">80</text>
+      <text x="18" y="70" fill="#f0f6fc" font-size="31" font-weight="750">81</text>
       <text x="168" y="65" fill="#fbbf24" font-size="25" text-anchor="middle">★</text>
     </g>
     <g transform="translate(250 92)">
@@ -72,8 +72,8 @@
     <g transform="translate(38 282)">
       <text x="0" y="14" fill="#c9d1d9" font-size="14" font-weight="650">MediChain-LLM-Agent</text>
       <rect x="300" y="2" width="270" height="12" rx="6" fill="#21262d"/>
-      <rect x="300" y="2" width="243" height="12" rx="6" fill="url(#bar)"/>
-      <text x="594" y="14" fill="#fbbf24" font-size="13">★ 18</text>
+      <rect x="300" y="2" width="257" height="12" rx="6" fill="url(#bar)"/>
+      <text x="594" y="14" fill="#fbbf24" font-size="13">★ 19</text>
       <text x="664" y="14" fill="#8b949e" font-size="13">⑂ 6</text>
     </g>
     <g transform="translate(38 322)">
